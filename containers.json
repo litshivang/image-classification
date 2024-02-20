@@ -1,0 +1,8 @@
+{
+    "hrms-flask-api-v1": {
+        "image": "sha256:0b59ccb61032621e094605e37882f182f9cf345f323174fa0bb5a6b7d177501d",
+        "ports": {
+            "8888": "HTTP"
+        }
+    }
+}

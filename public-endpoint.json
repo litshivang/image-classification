@@ -1,0 +1,4 @@
+{
+    "containerName": "hrms-flask-api-v1",
+    "containerPort": 8888
+}
